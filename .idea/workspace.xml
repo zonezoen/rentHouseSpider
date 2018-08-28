@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8c2978a-63c4-450a-8872-cd9739803ed7" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/houseFang.py" afterPath="$PROJECT_DIR$/houseSpyder.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/analycis.py" afterPath="$PROJECT_DIR$/main/analycis.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/comment.txt" afterPath="$PROJECT_DIR$/main/comment.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docker.jpeg" afterPath="$PROJECT_DIR$/main/docker.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/houseSpyder.py" afterPath="$PROJECT_DIR$/main/houseSpyder.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/kh.ttf" afterPath="$PROJECT_DIR$/main/kh.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/workCloud.py" afterPath="$PROJECT_DIR$/main/workCloud.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+              <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -71,6 +76,16 @@
               <item name="rentHouseSpider" type="b2602c69:ProjectViewProjectNode" />
               <item name="rentHouseSpider" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rentHouseSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rentHouseSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rentHouseSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rentHouseSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="spyderResult" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -80,6 +95,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spyderResult" />
+      <recent name="$PROJECT_DIR$/main" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,7 +165,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding />
         </state>
       </provider>
