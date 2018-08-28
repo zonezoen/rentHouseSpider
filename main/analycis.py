@@ -11,9 +11,9 @@ from pymongo import MongoClient
 
 class Analycis:
     def __init__(self):
-        self.client = MongoClient('mongodb://123.207.242.77:37017/')
+        self.client = MongoClient('mongodb://localhost:27017/')
         self.zfdb = self.client.zfdb
-        self.zfdb.authenticate("zf", "123qweasd!")
+        self.zfdb.authenticate("mongodbUser", "123456")
 
     pinyinDir = {
         "不限": "rent",
