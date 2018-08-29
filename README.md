@@ -1,5 +1,18 @@
 ## 租房爬虫
-python 爬虫，数据分析，数据展示
+- python 爬虫
+- 数据分析
+- 数据可视化
+
+本项目爬取的是深圳的租房信息
+
+#### 爬虫技术分析
+- 请求库：requests
+- HTML 解析：BeautifulSoup
+- 词云：wordcloud
+- 数据可视化：pyecharts
+- 数据库：MongoDB
+- 数据库连接：pymongo
+
 [文章地址](https://blog.csdn.net/zone_/article/details/82177330)
 
 #### 房源分布
