@@ -1,5 +1,8 @@
 ## **如果我的文章对你有帮助，欢迎 start、follow，这样我会更有动力做原创分享。**
 
+
+![zone7](https://github.com/zonezoen/blog/blob/master/img/zone_qrcode.jpg)
+
 在配置好 MongoDB 数据库和安装好相关的库包文件后，代码可直接运行。
 ## 租房爬虫
 - python 爬虫
@@ -33,4 +36,3 @@
 #### 词云
 ![租房描述](https://upload-images.jianshu.io/upload_images/2470773-b65a2b0dee1feec3.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![zone7](https://github.com/zonezoen/blog/blob/master/img/zone_qrcode.jpg)
